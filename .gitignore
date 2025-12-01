@@ -1,0 +1,17 @@
+# 虛擬環境
+venv/
+__pycache__/
+*.pyc
+
+# 輸入輸出檔案
+input/*.epub
+output/*.mp3
+output/*.wav
+
+# 系統檔案
+.DS_Store
+.env
+
+# IDE 設定
+.vscode/
+.idea/
