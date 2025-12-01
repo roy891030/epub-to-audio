@@ -175,10 +175,6 @@ tts:
   pause_duration: 2.0     # 停頓秒數
 ```
 
-## 授權
-
-MIT License
-
 ---
 
 **開發者：roy891030**
